@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# Number of Repeats when using Percent Train/Test Split
+export REPEATS=100
+# Starting Seed for Percent Train/Test Split
+export SEED=0
+# Percentage Size For Train Set in (0, 1)
+export PCT_TRAIN=0.8
